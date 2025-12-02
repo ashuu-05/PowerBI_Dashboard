@@ -9,3 +9,5 @@ This project analyzes booking patterns, cancellation behavior, and revenue perfo
 The dataset was cleaned and transformed to handle missing values, engineer date fields, and create DAX-based KPIs such as Total Bookings, Cancellation Rate, YOY Growth, and Total Revenue. The final dashboard features advanced visualizations—including a Tornado Chart, Funnel Chart, KPI cards, and trend analysis—to help stakeholders identify high-cancellation segments, seasonal demand patterns, and guest retention gaps.
 
 This project demonstrates practical skills in data analytics, business intelligence, DAX, visualization design, and insight storytelling, making it a complete data-driven solution for hotel performance monitoring and decision-making.
+
+![Hotel Bookings Dashboard](Hotel_bookings_and_cancellation_dashboard.png)
